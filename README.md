@@ -3,7 +3,7 @@
 
 ## 1 
 
-Implement ```print_neighbours ``` method in graph_class which prints all neighbours for given vertex vex
+Implement ```print_neighbours ```  **_method_** in graph_class which prints all neighbours for given node vex
 E.g. in out example for Maciek it should print 'Pola'
 
 ## 2
