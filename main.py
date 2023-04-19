@@ -4,7 +4,7 @@ with open("relations1.txt") as f:
 print(relation_txt)
 print(type(relation_txt))
 
-relations_lines = relation_txt.split('\n')[1::] #/n -> enter
+relations_lines = relation_txt.split('\n')[1::] #\n -> enter
 print(relations_lines)
 # find the graph here: https://app.diagrams.net/#G18j6pk-QIl-fFIeGPcsLGiuUphmgDlYaC
 
@@ -16,4 +16,4 @@ for element in relations_lines:
 
 print(relations)
 
-
+#def relations_1():
